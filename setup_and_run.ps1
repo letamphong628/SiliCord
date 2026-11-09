@@ -1,7 +1,7 @@
 $ErrorActionPreference = "Stop"
 
 Write-Host "==========================================================" -ForegroundColor Cyan
-Write-Host "  SiliCord - 100% Native Rust Discord Client Setup & Run  " -ForegroundColor Cyan
+Write-Host "  SiliCord   " -ForegroundColor Cyan
 Write-Host "==========================================================" -ForegroundColor Cyan
 
 $cargoBin = Join-Path $env:USERPROFILE ".cargo\bin"
